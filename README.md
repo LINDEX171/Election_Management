@@ -2,12 +2,15 @@
 
 
 
-## PROJET ELECTION
-Il s'agit d'une application web de gestion d'élections développée avec Laravel🫥.
+## ELECTION PROJECT
 
-Cette plateforme offre une expérience complète aux électeurs et aux administrateurs🤝. Du côté administrateur, l'accès sécurisé permet la création, la modification et la suppression de candidats, de programmes électoraux et d'électeurs, offrant ainsi une gestion complète de la base de données🔎.
+This is a web application for election management developed using Laravel 🫥.
 
-Pour les électeur🤳🏻s, une fois authentifiés, ils peuvent explorer une liste détaillée des candidats avec des descriptions provenant de la base de données, ainsi que les programmes électoraux associés👤. La page de vote, conviviale et conçue avec Laravel et Bootstrap, permet aux électeurs de faire un choix éclairé. De plus, l'intégration de Chart.js offre des statistiques en temps réel, offrant une vision claire des pourcentages de votes pour chaque candidat📶. Je suis ravi de partager cette réalisation , et je serais ravi d'avoir vos impressions et vos suggestions.
+This platform provides a comprehensive experience for both voters and administrators 🤝. For administrators, secure access allows for the creation, modification, and deletion of candidates, electoral programs, and voters, thus offering complete database management 🔎.
+
+For voters 🤳🏻, once authenticated, they can explore a detailed list of candidates with descriptions sourced from the database, as well as associated electoral programs 👤. The voting page, user-friendly and designed with Laravel and Bootstrap, allows voters to make an informed choice. Additionally, integration with Chart.js provides real-time statistics, offering a clear view of voting percentages for each candidate 📶. I'm excited to share this achievement, and I would love to hear your feedback and suggestions.
+
+
 
 ![1](https://github.com/LINDEX171/ELECTION2024/assets/129359610/15dd86d9-ca5c-43ee-86b3-f02af4b38999)
 ![2](https://github.com/LINDEX171/ELECTION2024/assets/129359610/56bde569-4c62-4367-9fc9-e1fda0f8daf1)
