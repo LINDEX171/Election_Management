@@ -8,7 +8,8 @@ This is a web application for election management developed using Laravel 🫥.
 
 This platform provides a comprehensive experience for both voters and administrators 🤝. For administrators, secure access allows for the creation, modification, and deletion of candidates, electoral programs, and voters, thus offering complete database management 🔎.
 
-For voters 🤳🏻, once authenticated, they can explore a detailed list of candidates with descriptions sourced from the database, as well as associated electoral programs 👤. The voting page, user-friendly and designed with Laravel and Bootstrap, allows voters to make an informed choice. Additionally, integration with Chart.js provides real-time statistics, offering a clear view of voting percentages for each candidate 📶. I'm excited to share this achievement, and I would love to hear your feedback and suggestions.
+For voters 🤳🏻, once authenticated, they can explore a detailed list of candidates with descriptions sourced from the database, as well as associated electoral programs 👤. The voting page, user-friendly and designed with Laravel and Bootstrap, allows voters to make an informed choice. Additionally, integration with Chart.js provides real-time statistics, offering a clear view of voting percentages for each candidate 📶.
+I'm excited to share this achievement, and I would love to hear your feedback and suggestions.
 
 
 
