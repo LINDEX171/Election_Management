@@ -4,7 +4,7 @@
 
 ## ELECTION PROJECT
 
-This is a web application for election management developed using Laravel 🫥.
+This is a web application for election management developed using Laravel 🫥
 
 This platform provides a comprehensive experience for both voters and administrators 🤝. For administrators, secure access allows for the creation, modification, and deletion of candidates, electoral programs, and voters, thus offering complete database management 🔎.
 
